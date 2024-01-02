@@ -1,0 +1,5 @@
+//Remote to Local
+--> git clone 
+--> git add <File name>
+--> git commit -m "MSG"
+--> git push 
